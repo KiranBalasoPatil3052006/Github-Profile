@@ -8,7 +8,10 @@
 
 
 <p align="center">  
-<em> 🚀 I create engaging web interfaces, cross-platform Cordova apps, and scalable solutions.<br> Inventing fast, user-first digital experiences! </em>  
+  <h3>About Me</h3>
+<em> ## About Me
+I'm a passionate developer currently sharpening my skills in **Spring Boot** and modern frontend technologies. Over time, I have worked on several projects using different tech stacks, which helped me explore various aspects of development. Recently, I decided to focus on **backend development with Spring Boot** to strengthen my understanding of server-side programming, build scalable APIs, and create more robust and efficient applications. I enjoy learning continuously, experimenting with new technologies, and turning ideas into real projects.
+</em>  
 </p>  
 
 <p align="center"> 
