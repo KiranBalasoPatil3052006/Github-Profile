@@ -29,8 +29,12 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
   <a href="https://instagram.com/your-link" target="_blank" rel="noopener noreferrer">  
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" height="40" alt="Instagram" style="margin: 0 15px;"/>  
   </a>  
-</p>## 🛠️ Tech Stack
+</p>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+</p>
 
+<h3>Tech Stack</h3>
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;
@@ -65,9 +69,9 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 
 
 
-<h1>🚀 Projects  </h1>
+<h3>Projects</h3>
 
-🚀 ### **Smart Cart System**
+ ### **1. Smart Cart System**
 ![Smart Cart](https://img.shields.io/badge/Project-SmartCart-blue?style=for-the-badge)
 
 **Purpose:**  
@@ -94,7 +98,7 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 
 **Repository:** [Smart Cart System](https://github.com/yourusername/smart-cart)
 ---
-![Chit Fund](https://img.shields.io/badge/Project-ChitFund-orange?style=for-the-badge)
+### **2. Chit Fund Management.**
 **Problem:** Manual paperwork, payment confusion, and errors in traditional chit fund systems.
 
 **Solution Built**
@@ -111,27 +115,28 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Deployment: Railway + Netlify  
 
 🔗 Live Project: https://lnkd.in/g.KzDMHg  
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
-</p>
-<p align="center">  
-<table>  
-<tr>  
-<td align="center" width="230" valign="top" style="padding: 15px;">  
-<img src="YOUR_SMARTCART_IMAGE_URL" width="100" height="100" alt="SmartCart"/>  
-<br/><b>SmartCart</b>: Simplifies shopping, lets you skip queues, & get a seamless checkout!  
-</td>  
-<td align="center" width="230" valign="top" style="padding: 15px;">  
-<img src="YOUR_SPLITZ_IMAGE_URL" width="100" height="100" alt="Splitz App"/>  
-<br/><b>Splitz App</b>: Quickly split profits, track shares, and view instant profit summaries for groups or teams.  
-</td>  
-<td align="center" width="230" valign="top" style="padding: 15px;">  
-<img src="YOUR_TODO_IMAGE_URL" width="100" height="100" alt="Todo App"/>  
-<br/><b>Todo List</b>: Stay productive! Organize tasks, set reminders, and achieve daily goals with a sleek, distraction-free interface.  
-</td>  
-</tr>  
-</table>  
-</p>  
+---
+
+### **3. Todo Management**  
+
+**Purpose:**  
+A simple web application to **manage daily tasks** efficiently. Users can add, delete, and track their tasks easily.  
+
+**Features:**  
+- Add tasks  
+- Delete tasks  
+- Mark tasks as completed  
+- Mark tasks as not completed  
+- Remove all tasks  
+
+**Tech Stack:**  
+HTML, CSS, JavaScript  
+
+**Repository Link:** [ToDo App](https://github.com/yourusername/todo-app)
+
+---
+
+
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
