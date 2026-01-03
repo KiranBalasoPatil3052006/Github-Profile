@@ -144,15 +144,13 @@ A simple web application to **manage daily tasks** efficiently. Users can add, d
 
 
 
-<b>📊 GitHub Stats</b>
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" alt="Kiran's GitHub stats"/>  
+<!-- Total GitHub stats -->
+<img src="https://kiranbalasopatil.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" alt="Kiran's GitHub Stats"/>  
 <br/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranBalasoPatil3052006&theme=tokyonight" alt="GitHub Streak"/>  
-<br/>  
-<img src="https://github-readme-stats.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=dark" alt="Kiran's GitHub stats"/>  
-
-
+<!-- Top languages -->
+<img src="https://kiranbalasopatil.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" alt="Top Languages"/>  
+</p>
 <p align="center">  
 ✨ Crafted with ❤️ by <b>Kiran</b> ✨  
 </p>
