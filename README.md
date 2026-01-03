@@ -73,7 +73,7 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 <h3>Projects</h3>
 
  ### **1. Smart Cart System**
-![Smart Cart](https://img.shields.io/badge/Project-SmartCart-blue?style=for-the-badge)
+
 
 **Purpose:**  
 The Smart Cart System is a web application designed to **enhance the shopping experience** by allowing real-time tracking of customer purchases. It helps stores manage inventory efficiently and provides customers with a smooth checkout process.
@@ -119,6 +119,7 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Deployment: Railway + Netlify  
 
 <p>Live Project: https://profound-tartufo-de12d5.netlify.app/</p>
+
 ---
 
 ### **3. Todo Management**  
@@ -136,8 +137,6 @@ A simple web application to **manage daily tasks** efficiently. Users can add, d
 **Tech Stack:**  
 - HTML, CSS, JavaScript  
 <p>Repository Link: [ToDo App](https://github.com/yourusername/todo-app)</p>
-### Repository Link: [ToDo App](https://github.com/yourusername/todo-app)
-
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
