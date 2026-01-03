@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF56B6&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Frontend+Developer+|+App+Developer+|+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF56B6&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Java+Full+Stack+Developer+|+AI+Proompting+%F0%9F%9A%80" alt="Typing SVG" />  
 </p>
+
 
 <p align="center">  
 <em> 🚀 I create engaging web interfaces, cross-platform Cordova apps, and scalable solutions.<br> Inventing fast, user-first digital experiences! </em>  
