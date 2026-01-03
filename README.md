@@ -9,7 +9,7 @@
 
 <p align="center">  
   <h3>About Me</h3>
-<em> ## About Me
+<em> 
 I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> and modern frontend technologies. Over time, I have worked on several projects using different tech stacks, which helped me explore various aspects of development. Recently, I decided to focus on <b>backend development with Spring Boot</b> to strengthen my understanding of server-side programming, build scalable APIs, and create more robust and efficient applications. I enjoy learning continuously, experimenting with new technologies, and turning ideas into real projects.
 </em>  
 </p>  
@@ -35,11 +35,12 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 </p>
 
 <h3>Tech Stack</h3>
+
 ### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;&nbsp;
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;
+![CSS3] (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;
+![JavaScript] (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;&nbsp;
+![TailwindCSS ](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) &nbsp;&nbsp;
@@ -96,6 +97,7 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Admin panel for monitoring purchases and inventory  
 - Responsive UI with animations for better user experience  
 
+**Live Project: https://smartz-izv7.onrender.com/ **
 **Repository:** [Smart Cart System](https://github.com/yourusername/smart-cart)
 ---
 ### **2. Chit Fund Management.**
@@ -114,7 +116,7 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Database: MongoDB Atlas  
 - Deployment: Railway + Netlify  
 
-🔗 Live Project: https://lnkd.in/g.KzDMHg  
+ Live Project: https://profound-tartufo-de12d5.netlify.app/
 ---
 
 ### **3. Todo Management**  
@@ -143,11 +145,11 @@ HTML, CSS, JavaScript
 </p>
 <b>📊 GitHub Stats </b> 
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Kiran's GitHub stats"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" alt="Kiran's GitHub stats"/>  
 <br/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranBalasoPatil3052006&theme=tokyonight" alt="GitHub Streak"/>  
 <br/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" alt="Top Languages"/>  
 </p>  
 
 <p align="center">  
