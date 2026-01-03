@@ -64,13 +64,10 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 </p>
 
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
-</p>
-<b>🚀 Projects  </b>
-## 📌 Projects
 
-### **Smart Cart System**
+<h1>🚀 Projects  </h1>
+
+🚀 ### **Smart Cart System**
 ![Smart Cart](https://img.shields.io/badge/Project-SmartCart-blue?style=for-the-badge)
 
 **Purpose:**  
@@ -82,11 +79,11 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Store owners cannot get **real-time insights** into purchase history or payment types.  
 
 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
-- **Backend:** Java Spring Boot (main), Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
+- **Frontend:** HTML, CSS, JavaScript.
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB
 - **Hosting:** Frontend on Netlify, Backend on Render  
-- **Tools:** Git, GitHub, VS Code, IntelliJ, MongoDB Compass, MongoDB Atlas  
+- **Tools:** Git, GitHub, VS Code,MongoDB Compass, MongoDB Atlas.
 
 **Key Features:**  
 - Real-time product scanning using barcodes  
@@ -96,7 +93,27 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Responsive UI with animations for better user experience  
 
 **Repository:** [Smart Cart System](https://github.com/yourusername/smart-cart)
+---
+![Chit Fund](https://img.shields.io/badge/Project-ChitFund-orange?style=for-the-badge)
+**Problem:** Manual paperwork, payment confusion, and errors in traditional chit fund systems.
 
+**Solution Built**
+- Secure admin login (JWT-based)
+- Plan-wise and member-wise tracking (52-week cycle)
+- Paid/unpaid status with instant updates
+- Printable payment reports
+- Fully mobile-responsive interface
+
+**Tech Used**
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Node.js, Express  
+- Database: MongoDB Atlas  
+- Deployment: Railway + Netlify  
+
+🔗 Live Project: https://lnkd.in/g.KzDMHg  
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+</p>
 <p align="center">  
 <table>  
 <tr>  
