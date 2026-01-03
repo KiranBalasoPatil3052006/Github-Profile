@@ -97,8 +97,8 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Admin panel for monitoring purchases and inventory  
 - Responsive UI with animations for better user experience  
 
-**Live Project: https://smartz-izv7.onrender.com/ **
-**Repository:** [Smart Cart System](https://github.com/yourusername/smart-cart)
+- Live Project: https://smartz-izv7.onrender.com/ 
+- Repository: [Smart Cart System](https://github.com/yourusername/smart-cart)
 ---
 ### **2. Chit Fund Management.**
 **Problem:** Manual paperwork, payment confusion, and errors in traditional chit fund systems.
@@ -116,7 +116,7 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Database: MongoDB Atlas  
 - Deployment: Railway + Netlify  
 
- Live Project: https://profound-tartufo-de12d5.netlify.app/
+- Live Project: https://profound-tartufo-de12d5.netlify.app/
 ---
 
 ### **3. Todo Management**  
@@ -134,7 +134,7 @@ A simple web application to **manage daily tasks** efficiently. Users can add, d
 **Tech Stack:**  
 HTML, CSS, JavaScript  
 
-**Repository Link:** [ToDo App](https://github.com/yourusername/todo-app)
+- Repository Link: [ToDo App](https://github.com/yourusername/todo-app)
 
 ---
 
@@ -146,8 +146,8 @@ HTML, CSS, JavaScript
 <br/>  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranBalasoPatil3052006&theme=tokyonight" alt="GitHub Streak"/>  
 <br/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=dark" alt="Kiran's GitHub stats"/>  
+
 
 <p align="center">  
 ✨ Crafted with ❤️ by <b>Kiran</b> ✨  
