@@ -18,7 +18,7 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="600"> 
 </p>
 
- <b>🌐 Connect With Me  </b>
+ <h3>Connect With Me  </h3>
 <p align="center">  
   <a href="https://linkedin.com/in/your-link" target="_blank" rel="noopener noreferrer">  
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn" style="margin: 0 15px;"/>  
@@ -133,8 +133,9 @@ A simple web application to **manage daily tasks** efficiently. Users can add, d
 
 **Tech Stack:**  
 - HTML, CSS, JavaScript  
+<p>Repository Link: [ToDo App](https://github.com/yourusername/todo-app)</p>
+### Repository Link: [ToDo App](https://github.com/yourusername/todo-app)
 
-## Repository Link: [ToDo App](https://github.com/yourusername/todo-app)
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
