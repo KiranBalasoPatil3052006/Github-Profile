@@ -97,8 +97,8 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Admin panel for monitoring purchases and inventory  
 - Responsive UI with animations for better user experience  
 
-- Live Project: https://smartz-izv7.onrender.com/ 
-- Repository: [Smart Cart System](https://github.com/yourusername/smart-cart)
+## Live Project: https://smartz-izv7.onrender.com/ 
+## Repository: [Smart Cart System](https://github.com/yourusername/smart-cart)
 ---
 ### **2. Chit Fund Management.**
 **Problem:** Manual paperwork, payment confusion, and errors in traditional chit fund systems.
@@ -116,7 +116,7 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 - Database: MongoDB Atlas  
 - Deployment: Railway + Netlify  
 
-- Live Project: https://profound-tartufo-de12d5.netlify.app/
+##Live Project: https://profound-tartufo-de12d5.netlify.app/
 ---
 
 ### **3. Todo Management**  
@@ -132,11 +132,13 @@ A simple web application to **manage daily tasks** efficiently. Users can add, d
 - Remove all tasks  
 
 **Tech Stack:**  
-HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript  
 
-- Repository Link: [ToDo App](https://github.com/yourusername/todo-app)
+## Repository Link: [ToDo App](https://github.com/yourusername/todo-app)
 
----
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+</p>
 
 
 
