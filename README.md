@@ -10,7 +10,7 @@
 <p align="center">  
   <h3>About Me</h3>
 <em> ## About Me
-I'm a passionate developer currently sharpening my skills in **Spring Boot** and modern frontend technologies. Over time, I have worked on several projects using different tech stacks, which helped me explore various aspects of development. Recently, I decided to focus on **backend development with Spring Boot** to strengthen my understanding of server-side programming, build scalable APIs, and create more robust and efficient applications. I enjoy learning continuously, experimenting with new technologies, and turning ideas into real projects.
+I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> and modern frontend technologies. Over time, I have worked on several projects using different tech stacks, which helped me explore various aspects of development. Recently, I decided to focus on <b>backend development with Spring Boot</b> to strengthen my understanding of server-side programming, build scalable APIs, and create more robust and efficient applications. I enjoy learning continuously, experimenting with new technologies, and turning ideas into real projects.
 </em>  
 </p>  
 
@@ -30,6 +30,34 @@ I'm a passionate developer currently sharpening my skills in **Spring Boot** and
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" height="40" alt="Instagram" style="margin: 0 15px;"/>  
   </a>  
 </p>
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Hosting:**  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-FF5520?style=flat-square&logo=render&logoColor=white)
+
+**Tools & IDEs:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) 
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
 <p align="center"> 
