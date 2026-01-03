@@ -99,7 +99,9 @@ The Smart Cart System is a web application designed to **enhance the shopping ex
 
 <p>Live Project: https://smartz-izv7.onrender.com/</p>
 <p>Repository: [Smart Cart System](https://github.com/yourusername/smart-cart)</p>
+
 ---
+
 ### **2. Chit Fund Management.**
 **Problem:** Manual paperwork, payment confusion, and errors in traditional chit fund systems.
 
