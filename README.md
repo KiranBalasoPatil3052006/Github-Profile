@@ -37,9 +37,9 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 <h3>Tech Stack</h3>
 
 ### Frontend  
-![HTML5] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;
-![CSS3] (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;
-![JavaScript] (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;&nbsp;
 ![TailwindCSS ](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend  
@@ -140,17 +140,14 @@ HTML, CSS, JavaScript
 
 
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
-</p>
-<b>📊 GitHub Stats </b> 
+<b>📊 GitHub Stats</b>
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" alt="Kiran's GitHub stats"/>  
 <br/>  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranBalasoPatil3052006&theme=tokyonight" alt="GitHub Streak"/>  
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p>  
+</p>
 
 <p align="center">  
 ✨ Crafted with ❤️ by <b>Kiran</b> ✨  
