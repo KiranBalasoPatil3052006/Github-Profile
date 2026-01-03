@@ -62,32 +62,41 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
 </p>
- <b>⚡ Skills</b>
-<table align="center"> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/><br>Python </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/><br>Java </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/><br>HTML5 </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/><br>CSS3 </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/><br>JavaScript </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/><br>React </td> <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apache_Cordova_Logo.svg" width="55" height="55" alt="Cordova"/>
-<br>Cordova </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br>Git </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/><br>Figma </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br>Node.js </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express"/><br>Express </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/><br>MongoDB </td><td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-       width="55" height="55" alt="Spring Boot"/><br>
-  Spring Boot
-</td>
- </tr> </table>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
-</p>
 
- <b>🛠️ Tools & IDE </b>
-<table align="center"> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio"/><br>Android Studio </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/><br>VS Code </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br>Git </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/><br>Figma </td> </tr> </table>
-
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
-</p>
-
- <b>🗄️ Database</b> 
-<table align="center"> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70" alt="MongoDB"/><br>MongoDB Atlas </td> </tr> </table>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
 </p>
 <b>🚀 Projects  </b>
+## 📌 Projects
+
+### **Smart Cart System**
+![Smart Cart](https://img.shields.io/badge/Project-SmartCart-blue?style=for-the-badge)
+
+**Purpose:**  
+The Smart Cart System is a web application designed to **enhance the shopping experience** by allowing real-time tracking of customer purchases. It helps stores manage inventory efficiently and provides customers with a smooth checkout process.
+
+**Problem it Solves:**  
+- Manual billing and inventory tracking in stores is **time-consuming and error-prone**.  
+- Customers often wait in long queues for checkout.  
+- Store owners cannot get **real-time insights** into purchase history or payment types.  
+
+**Tech Stack:**  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
+- **Backend:** Java Spring Boot (main), Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Hosting:** Frontend on Netlify, Backend on Render  
+- **Tools:** Git, GitHub, VS Code, IntelliJ, MongoDB Compass, MongoDB Atlas  
+
+**Key Features:**  
+- Real-time product scanning using barcodes  
+- Customer purchase tracking and history  
+- Cash and online payment support with unique cashier codes  
+- Admin panel for monitoring purchases and inventory  
+- Responsive UI with animations for better user experience  
+
+**Repository:** [Smart Cart System](https://github.com/yourusername/smart-cart)
+
 <p align="center">  
 <table>  
 <tr>  
