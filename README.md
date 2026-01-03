@@ -15,7 +15,7 @@ I'm a passionate developer currently sharpening my skills in <b>Spring Boot</b> 
 </p>  
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="600"> 
 </p>
 
  <b>🌐 Connect With Me  </b>
