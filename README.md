@@ -141,6 +141,18 @@ A simple web application to **manage daily tasks** efficiently. Users can add, d
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
 </p>
+<h3>Open to Opportunities</h3>
+
+<p>
+I am actively looking for <b>internship opportunities</b> as a <b>Java Full Stack / Backend Developer</b>, 
+where I can apply my skills, gain real-world industry experience, and grow as a professional while contributing to meaningful projects.
+</p>
+
+
+
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+</p>
 
 <h3>Currently Learning</h3>
 
@@ -178,16 +190,9 @@ HTML • CSS • JavaScript • Git • Deployment
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
 </p>
-<h3>Open to Opportunities</h3>
-
-<p>
-I am actively looking for <b>internship opportunities</b> as a <b>Java Full Stack / Backend Developer</b>, 
-where I can apply my skills, gain real-world industry experience, and grow as a professional while contributing to meaningful projects.
-</p>
 
 
 
-<p align="center">
 
   <img src="https://kiranbalasopatil.vercel.app/graph?username=KiranBalasoPatil3052006&theme=tokyo-night" />
 
