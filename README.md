@@ -191,6 +191,7 @@ HTML • CSS • JavaScript • Git • Deployment
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
 </p>
 <p align="center">
+  <h3>GitHub Stats</h3>
   <table>
     <tr>
       <td>
