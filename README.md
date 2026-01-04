@@ -192,7 +192,7 @@ HTML • CSS • JavaScript • Git • Deployment
 </p>
 
 
-<p align="center">
+<p >
 
   <!-- Contribution Graph -->
   <img 
