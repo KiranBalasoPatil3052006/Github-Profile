@@ -142,9 +142,55 @@ A simple web application to **manage daily tasks** efficiently. Users can add, d
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
 </p>
 
+<h3>Currently Learning</h3>
+
+<ul>
+  <li>Advanced Spring Boot (Security, JWT, REST API best practices)</li>
+  <li>Backend architecture & scalable API design</li>
+  <li>Database optimization with MongoDB</li>
+  <li>System design fundamentals</li>
+</ul>
+
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+</p>
+
+<h3>Core Skills</h3>
+
+<p>
+Java • Spring Boot • REST APIs • MongoDB • Node.js • Express • 
+HTML • CSS • JavaScript • Git • Deployment
+</p>
+
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+</p>
 
 
-<p align="center">  
+<h3>Highlights</h3>
+
+<ul>
+  <li>Built and deployed multiple full-stack applications</li>
+  <li>Implemented real-time features using MongoDB</li>
+  <li>Designed admin dashboards with live data updates</li>
+  <li>Hands-on experience with cloud deployment (Netlify, Render, Railway)</li>
+</ul>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
+</p>
+<h3>Open to Opportunities</h3>
+
+<p>
+I am actively looking for <b>internship opportunities</b> as a <b>Java Full Stack / Backend Developer</b>, 
+where I can apply my skills, gain real-world industry experience, and grow as a professional while contributing to meaningful projects.
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://kiranbalasopatil.vercel.app/graph?username=KiranBalasoPatil3052006&theme=tokyo-night" />
+
 <!-- Total GitHub stats -->
 <img src="https://kiranbalasopatil.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" alt="Kiran's GitHub Stats"/>  
 <br/>  
