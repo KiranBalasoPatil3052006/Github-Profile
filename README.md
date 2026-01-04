@@ -190,35 +190,30 @@ HTML • CSS • JavaScript • Git • Deployment
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="510"> 
 </p>
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
 
+    <!-- Contribution Graph -->
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=KiranBalasoPatil3052006&theme=tokyo-night" 
+      width="300" height="150" 
+      alt="GitHub Contribution Graph" />
 
-<p >
+    <!-- Total GitHub Stats -->
+    <img 
+      src="https://kiranbalasopatil.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" 
+      width="300" height="150" 
+      alt="Kiran's GitHub Stats" />
 
-  <!-- Contribution Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KiranBalasoPatil3052006&theme=tokyo-night" 
-    width="450" height="180" 
-    alt="GitHub Contribution Graph" 
-    style="margin-bottom: 10px;"/>
+    <!-- Top Languages -->
+    <img 
+      src="https://kiranbalasopatil.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" 
+      width="300" height="150" 
+      alt="Top Languages" />
 
-  <br/>
-
-  <!-- Total GitHub Stats -->
-  <img 
-    src="https://kiranbalasopatil.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" 
-    width="450" height="180" 
-    alt="Kiran's GitHub Stats" 
-    style="margin-bottom: 10px;"/>
-
-  <br/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://kiranbalasopatil.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" 
-    width="450" height="180" 
-    alt="Top Languages" />
-
+  </div>
 </p>
+
 
 
 <p align="center">  
