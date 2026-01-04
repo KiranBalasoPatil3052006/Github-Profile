@@ -192,16 +192,20 @@ HTML • CSS • JavaScript • Git • Deployment
 </p>
 
 
+<p align="center">
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiranBalasoPatil3052006&theme=tokyo-night" />
 
-  <img src="https://kiranbalasopatil.vercel.app/graph?username=KiranBalasoPatil3052006&theme=tokyo-night" />
+  <br/>
 
-<!-- Total GitHub stats -->
-<img src="https://kiranbalasopatil.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" alt="Kiran's GitHub Stats"/>  
-<br/>  
-<!-- Top languages -->
-<img src="https://kiranbalasopatil.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" alt="Top Languages"/>  
+  <img src="https://kiranbalasopatil.vercel.app/api?username=KiranBalasoPatil3052006&show_icons=true&theme=tokyonight" />
+
+  <br/>
+
+  <img src="https://kiranbalasopatil.vercel.app/api/top-langs/?username=KiranBalasoPatil3052006&layout=compact&theme=tokyonight" />
+
 </p>
+
 <p align="center">  
 ✨ Crafted with ❤️ by <b>Kiran</b> ✨  
 </p>
